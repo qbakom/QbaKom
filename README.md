@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @qbakom
-- 👀 I’m interested in math, programming, competetive tournaments
+- 👀 I’m interested in math, programming ann competetive tournaments
 - 🌱 I’m currently learning javascript
 
 <!---
