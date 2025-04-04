@@ -37,6 +37,6 @@
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 ## Github Stats
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qbakom&hide_border=true&layout=compact"/>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qbakom&hide_border=true&layout=compact" align="center"/></div>
 
 <br/>
